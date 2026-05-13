@@ -138,7 +138,7 @@ Distributed under the **[MIT License](LICENSE)**. Use, fork, and adapt in line w
 
 This repository builds upon work by **[Yashav Shukla](https://github.com/yashav-shukla)**. If you fork or redistribute substantial portions of the project, **please retain appropriate credit** to the original author in line with community norms and your internal compliance guidelines.
 
-**Live reference:** [yashavshukla](https://www.yashavshukla/)
+**Live reference:** [yashavshukla](https://interactive-developer-portfolio-two.vercel.app/)
 
 ---
 

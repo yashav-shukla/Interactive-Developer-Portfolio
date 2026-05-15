@@ -80,7 +80,7 @@ export const config = {
             title: "EIE - Earthquake Impact Estimator",
             category: "IoT / Hardware",
             technologies: "Arduino, C++, IoT Sensors, Python, ML, React",
-            image: "/images/eie.png",
+            image: "/images/eie.svg",
             description: "A practical circuit-based IoT system utilizing Arduino to predict earthquakes before they strike. Integrates hardware sensors for real-time seismic detection and impact estimation."
         },
         {
@@ -134,13 +134,13 @@ export const config = {
     },
     skills: {
         develop: {
-            title: "AI DEVELOPER",
+            title: "FULL-STACK DEVELOPER",
             description: "Building intelligent systems & AI solutions",
             details: "Developing AI agents, chatbots, and machine learning models using Python, TensorFlow, and PyTorch. Specializing in LLMs, NLP, deep learning, and autonomous systems.",
             tools: ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents"]
         },
         design: {
-            title: "FULL-STACK",
+            title: "FRONTEND DEVELOPER",
             description: "Modern web development & scalable applications",
             details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
             tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
